@@ -1,5 +1,11 @@
 # eva
 
+內容:
+```
+以長榮航空網站作為基準
+使用 Vue 框架，分頁篩選，Bootstrap4元件套用。
+```
+
 ## Project setup
 ```
 npm install
